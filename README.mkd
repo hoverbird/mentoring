@@ -1,22 +1,28 @@
-#Why?#
+#Why am I /mentoring?#
 
-In college, I studied history. I researched amateur magician communities at the turn of the twentieth century and read all about Soviet department stores. But mostly, I was fascinated by the history of technology. And halfway through college, I looked up and realized that history was happening around me: that the internet was transforming *this* moment, and that I wanted to be a part of it.
+> "I've never let school interfere with my education." -Mark Twain
 
-Before that moment, my plan had been to pursue a Ph.D. in history. The mentors I'd sought had been professors, and at university they'd been close at hand. Research assistantships, small seminars, and office hours all provided structured opportunities for getting to know the scholars I admired. When I decided that I wanted to pursue a career in technology, it didn't stop me from loving history or looking up to my professors. But it did change my sense of what my future would look like, and more and more I realized it was looking less and less like theirs.
+The most important lessons in my life have been learned from people I've known personally- not always friends, but seldom people who'd crosssed my path in an official capacity as an educator.  These people have changed my life in ways I'll never be able to fully account for.  They've opened my mind to their philosophies and opened doors in my career path; I take comfort knowing that these gifts were given for the pleasure of giving, because otherwise there would be no way to pay them back.
 
-Finding "internet people" to look up to never felt like a hurdle: as soon as I started looking, I found people whose writing and outlook and accomplishments I longed to learn from. Better yet, the open book of life online gave me a more vivid picture of what my future could look like. The internet felt to me then, and feels to me now, like an electric frontier. Opportunities abound for bold experiments and spontaneous connections. 
+I have, however, reached a point in my life where I can do the same for someone else.  Like the folks who've helped me (who I plan to enumerate here- watch this space!), I want to mentor in a way that feels natural, familial. It's not a service- it's the beginning of a relationship.
 
-Yet without the structure of office hours, research assistantships, and seminars, it seldom occurred to me to look for an opening to connect—to actually seek individual guidance from the people I so admired, or even simply to express my admiration. In the absence of an invitation, doing so felt like an imposition. 
+The obvious place to start mentoring, for me, is in the Software.  I learned everything I know about code under the guidance of a few brilliant individuals, starting with nothing but a fascination with machines.  I want to connect with someone who feels this same fascination and is in the same energetic "beginner's mind" state that I was. I want pass on the skills I've picked up, share and explore our conceptions of what's possible and worthwhile in writing code for others.
 
-I know now, though, that it's the opposite: the opportunity to offer guidance from experience is a gift. In her book *Reality is Broken*, Jane McGonigal describes the phenomenon of *naches* — pride or gratification, especially in others. "We don't describe ourselves as 'bursting with pride' over our own success, but we do for others; this language suggests that the feeling of *naches* is even more explosive" than satisfaction over personal success. But that reward requires commitment: "to generate the emotional reward of *naches*, we have to throw ourselves into the act of mentoring."
+If you’d like to work together, you can write me a letter responding to the questions below; I’ll write back to all letters I receive in this way within two weeks no matter what. In response to the most exceptional letters, I’ll propose further correspondence—and in certain cases, an ongoing mentoring relationship.
 
-As we live and work on this electric frontier, it's important to build and renew our own traditions. My goal with /mentoring is to encourage people to believe in one another, and to make it the easiest, most natural thing in the world to express and welcome that belief.
+1. Tell me about yourself. How did you become who you are, and who do you want to become?
 
-Anyone can be a part of /mentoring. All it takes is a few lines of text on your own website, blog, or other profile, expressing your openness to mentoring and offering a specific invitation to get in touch.
+2. What do you hope to gain from our mentoring relationship?
 
-I'm calling it "/mentoring" because I hope that eventually it will be as natural a part of the internet as "/about" pages. I'm placing my invitation at <http://dianakimball.com/mentoring>, and I invite you to do the same—or place it wherever it feels right to you.
+3. What’s the best thing you’ve read, watched, or listened to lately?
 
-Over time, I hope that this page can become *a* center, though not *the* center, of community experiences and best practices. Philosophically, that it's on [GitHub](http://github.com) is no accident: I want this idea to flourish, and so I'm setting it free. To expand on it yourself, please take the idea and run with it to wherever it takes you. In the best tradition of open-source, I look forward to incorporating many ideas and also celebrating many alternatives.
+#Perhaps you're more interested in /mentoring yourself?#
+
+This all started with [Diana Kimball](http://dianakimball.com)'s concept, which I and several others are forking and contributing back to. Anyone can be a part of /mentoring. All it takes is a few lines of text on your own website, blog, or other profile, expressing your openness to mentoring and offering a specific invitation to get in touch.
+
+She called it "/mentoring" in the hopes that, eventually, it will be as natural a part of the internet as "/about" pages. I'm placing my invitation at <http://patrickewing.info/mentoring>, and I invite you to do the same.
+
+Over time, we hope that the [origin page](https://github.com/dianakimball/mentoring) will become *a* center, though not *the* center, of community experiences and best practices. Philosophically, that it's on [GitHub](http://github.com) is no accident: Diana wanted this idea to flourish, and so she set it free. To expand on it yourself, please take the idea and run with it to wherever it takes you. In the best tradition of open-source, we look forward to incorporating many ideas and also celebrating many alternatives.
 
 Are you ready? Let's begin.
 
